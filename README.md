@@ -1,5 +1,7 @@
 # QRStaticCode Generator
 
+**Copyright © 2025 Alessio Borgi***
+
 A flexible Python code for generating styled QR codes with optional icons and captions. 
 
 ## Features
@@ -23,6 +25,8 @@ A flexible Python code for generating styled QR codes with optional icons and ca
 
    ```bash
    pip install qrcode[pil] Pillow
+
+--- 
 
 ## Usage
 Import the ```generate_stylish_qr``` function and call it with your desired parameters:
