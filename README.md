@@ -1,1 +1,1 @@
-# QRStaticCode_Maker
+# QRStaticCode Generator
