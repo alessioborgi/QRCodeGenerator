@@ -1,6 +1,6 @@
 # QRStaticCode Generator
 
-**Copyright © 2025 Alessio Borgi***
+***Copyright © 2025 Alessio Borgi***
 
 A flexible Python code for generating styled QR codes with optional icons and captions. 
 
