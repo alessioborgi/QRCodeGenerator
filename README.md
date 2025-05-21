@@ -1,4 +1,4 @@
-# QR StaticCode Generator
+# QRCodeGenerator
 
 **Copyright © 2025 Alessio Borgi**
 
